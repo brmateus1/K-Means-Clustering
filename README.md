@@ -4,13 +4,27 @@ Exercício realizado com base no turorial do site https://www.datacamp.com/tutor
 
 Neste notebook, foi realizado um agrupamento (clustering) de regiões da Califórnia usando o algoritmo K-Means, com base em localização geográfica, para entender padrões de preços de imóveis.
 
-## 📈 Resultados
+## Metodos
+
+Teste para definição da quantidade de clusters.
+
+![Apresentação](EscolhadomelhorK.png)
+
+Geração do mapa de imóveis clusterizado no Canadá.
+
+![Apresentação](Housing_California.ipynb)
+
+Box-plot de preços em cada cluster.
+
+![Apresentação](Boxplot.png)
+
+## Resultados
 
 - Identificação de padrões geográficos no preço dos imóveis
 - Segmentação eficiente do território em regiões com comportamentos distintos
 - Diferenças claras de preço entre clusters
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Python
 - Pandas
