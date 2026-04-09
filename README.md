@@ -2,7 +2,7 @@
 
 Exercício realizado com base no turorial do site https://www.datacamp.com/tutorial/k-means-clustering-python.
 
-Neste notebook, foi realizado um agrupamento (clustering) de regiões da Califórnia usando o algoritmo K-Means, com base em localização geográfica, para entender padrões de preços de imóveis.
+Neste projeto, foi realizado um agrupamento (clustering) de regiões da Califórnia usando o algoritmo K-Means, com base em localização geográfica, para entender padrões de preços de imóveis.
 
 ## Metodos
 
