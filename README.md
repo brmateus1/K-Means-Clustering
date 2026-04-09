@@ -12,7 +12,7 @@ Teste para definição da quantidade de clusters.
 
 Geração do mapa de imóveis clusterizado no Canadá.
 
-![Apresentação](Housing_California.ipynb)
+![Apresentação](Clusters.png)
 
 Box-plot de preços em cada cluster.
 
